@@ -1,0 +1,38 @@
+body {
+    background-color: #031634;
+}
+.done {
+    color: red;
+}
+.calculate {
+    border: 3px dashed #E8DDCB;
+    width: 300px;
+    height: 80%;
+    margin: auto;
+    padding: 20px;
+}
+label {
+    color: #CDB380;
+    font-family: sans-serif;
+
+}
+input[type=text] {
+    border: 1px solid #E8DDCB;
+    width: 200px;
+    height: 25px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+button {
+    border: none;
+    border-radius: 10px;
+    width: 65px;
+    height: 28px;
+    margin-left: 5px;
+    background-color: #036564;
+    display: inline;
+    color: #CDB380;
+}
+li {
+    color: #E8DDCB;
+}
